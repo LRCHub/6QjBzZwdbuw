@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Stick Stickly",
+  "base_artist": "Attack Attack!",
+  "createdAt": "2026-02-24T22:14:11.263810Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack! (US)",
+      "has_synced": true,
+      "path": "select/01_Stick_Stickly_Attack_Attack!_(US).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack!",
+      "has_synced": true,
+      "path": "select/02_Stick_Stickly_Attack_Attack!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Lemon Demon",
+      "has_synced": false,
+      "path": "select/03_Stick_Stickly_Lemon_Demon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Lemon Demon",
+      "has_synced": true,
+      "path": "select/04_Stick_Stickly_Lemon_Demon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Lemon Demon",
+      "has_synced": true,
+      "path": "select/05_Stick_Stickly_Lemon_Demon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Lemon Demon",
+      "has_synced": false,
+      "path": "select/06_Stick_Stickly_Lemon_Demon.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Attack Attack! - Stick Stickly",
+      "artist": "Attack Attack!",
+      "has_synced": true,
+      "path": "select/07_Attack_Attack!_-_Stick_Stickly_Attack_Attack!.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack!",
+      "has_synced": true,
+      "path": "select/08_Stick_Stickly_Attack_Attack!.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack!",
+      "has_synced": true,
+      "path": "select/09_Stick_Stickly_Attack_Attack!.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack",
+      "has_synced": true,
+      "path": "select/10_Stick_Stickly_Attack_Attack.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stick Stickly",
+      "artist": "Attack Attack!",
+      "has_synced": false,
+      "path": "select/pl_01_Stick_Stickly_Attack_Attack!.txt"
+    }
+  ]
+}
